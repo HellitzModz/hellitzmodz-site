@@ -1,0 +1,62 @@
+
+.mn {
+  position: relative;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.p1 {
+  background-image: url("/res/Assets/Warzone.jpg");
+  background-repeat: no-repeat;
+  height:240px;
+  width: 240px;
+  background-size: 240px 240px;
+  float: left;
+  text-align: center;
+}
+
+.p2 {
+  margin-left: 50px;
+  background-image: url("/res/Assets/Valorant.jpg");
+  background-repeat: no-repeat;
+  background-size : 240px 240px;
+  height:240px;
+  
+  float: left;
+  text-align: center;
+  width:240px;
+}
+
+.p3 {
+  margin-left: 50px;
+  background-image: url("/res/Assets/csgo.jpg");
+  background-repeat: no-repeat;
+  background-size: 240px 240px;
+  text-align: center;
+  float : left;
+  height:240px;
+  width:240px;
+}
+
+.pin {
+  color: white;
+  background-color: black;
+  text-align: center;
+  margin-top: 60%;
+  height: 100px;
+  
+}
+
+.pin button {
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+  border-color: white;
+  border-radius: 2px;
+}
+
+.pin button:hover {
+  background-color:white;
+  color:black;
+}
+

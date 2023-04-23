@@ -1,0 +1,65 @@
+
+
+
+.inbox {
+  background-color:black;
+  width:250px;
+  height:250px;
+  border-radius: 6px;
+  position:relative;
+  top:30%;
+  color:white;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.inbox h3 {
+  font-size:40px;
+  left:50%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.inbox a {
+  left : 50%;
+  top : 60% ;
+  transform : translate(-50%, -50% );
+  position: absolute ;
+}
+
+
+
+.inbox button {
+  color:white;
+  background-color:black;
+  border:solid 1px;
+  border-color:white;
+  border-radius: 3px;
+  margin: 0;
+  position: absolute;
+  top: 80%;
+  left:50%;
+  font-size:18px;
+  height: 50px;
+  transform: translate(-50%, -50%);
+ 
+  
+}
+
+.inbox button:hover {
+  background-color:white;
+  color:black;
+  box-shadow: 1px 1px 2px 2px white;
+  
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  margin-top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}

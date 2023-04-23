@@ -1,0 +1,19 @@
+body {
+  padding:0px;
+  margin:0px;
+  background-color:grey;
+}
+
+
+.footer {
+  position:fixed;
+  left:0;
+  bottom:0;
+  width:100%;
+  background-color:black;
+  color: white;
+  height:200px;
+  text-align: left;
+}
+
+
